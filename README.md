@@ -2,8 +2,6 @@
 
 O ItemID Plugin é um plugin para servidores Minecraft Pocket Edition (PocketMine-MP) que permite aos jogadores ver o ID dos itens que estão segurando no jogo.
 
-![Demonstração](demo.png)
-
 ## Recursos
 
 - Mostra o ID do item na forma de uma dica flutuante para jogadores com permissão de operador (OP).
