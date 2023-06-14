@@ -10,7 +10,7 @@ O ItemID Plugin é um plugin para servidores Minecraft Pocket Edition (PocketMin
 
 ## Instalação
 
-1. Baixe o arquivo do plugin na página [Releases](link_para_as_releases).
+1. Baixe o arquivo do plugin: ItemID_Toggle.phar
 2. Coloque o arquivo do plugin na pasta `plugins` do seu servidor PocketMine-MP.
 3. Reinicie o servidor.
 
